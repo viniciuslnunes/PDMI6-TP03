@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchDataAPI", "FetchDataAPI\FetchDataAPI.csproj", "{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Release|iPhone.Build.0 = Release|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{3F0961B0-4DFA-41E8-970A-87F6BB56D9AB}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BD955B-CEE9-49C1-AA73-0030A57D1FEE}
+	EndGlobalSection
+EndGlobal
